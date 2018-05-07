@@ -1,0 +1,50 @@
+.wrap {
+	max-width: 1000px;
+	margin: 0 auto;
+	background-color: white;
+}
+.header {
+	background-color: darkblue ;
+	height: 150px;
+	margin-bottom: 10px;
+}
+
+body {
+	background-color: #ccc;
+	margin: 0px;
+	padding: 0px;
+}
+
+.sadebar-left {
+	width: 20%;
+	min-height: 500px;
+	background-color: darkgreen;
+	float: left;
+
+
+}
+
+.content {
+	width: 63%;
+	min-height: 400px;
+	background-color: darkred;
+	float: left;
+	margin: 0px 1%;
+}
+.sadebar-right {
+	width: 15%;
+	min-height: 500px;
+	background-color: olive;
+	float: left;
+}
+.futer {
+	
+	height: 100px;
+	background-color: #333;
+    clear: both;
+	margin-top: 10px;
+}
+
+.clear {
+	clear: both;
+}

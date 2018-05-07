@@ -1,0 +1,39 @@
+@media (min-width: 751px) and (max-width: 1600px) {
+
+
+
+body {
+	background-color: green;
+}
+}
+
+@media  (max-width: 650px) {
+		.sadebar-left {
+	width: 100%;
+	min-height: 10px;
+	
+	
+
+
+}
+
+.content {
+	width: 100%;
+	min-height: 10px;
+	
+	
+	margin: 10px 0px;
+}
+.sadebar-right {
+	width: 100%;
+	min-height: 10px;
+	
+	
+}
+
+
+}
+@media  (max-width: 450px) {
+
+
+}
